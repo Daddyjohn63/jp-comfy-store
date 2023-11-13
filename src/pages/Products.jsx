@@ -1,4 +1,4 @@
-function Products() {
-  return <div>Products</div>;
-}
+const Products = () => {
+  return <h1 className="text-4xl">About</h1>;
+};
 export default Products;

@@ -1,4 +1,4 @@
-function SingleProduct() {
-  return <div>SingleProduct</div>;
-}
-export default SingleProduct;
+const singleProduct = () => {
+  return <h1 className="text-4xl">About</h1>;
+};
+export default singleProduct;

@@ -1,4 +1,4 @@
-function Orders() {
-  return <div>Orders</div>;
-}
+const Orders = () => {
+  return <h1 className="text-4xl">About</h1>;
+};
 export default Orders;
